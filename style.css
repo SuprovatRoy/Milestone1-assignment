@@ -61,30 +61,7 @@ h1{
     background-size: 150px;
     background-position: right;
 }
-#product-head{
-    text-align: center;
-}
-.product img{
-    width: 35%;
-}
-.product{
-    text-align: center;
-}
-#product-1{
-    background-color: hotpink;
-    margin-right: 15px;
-    margin-left: 20px;
-    color: white;
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 6px;
-}
-#product-2{
-    background-color: hotpink;
-    margin-left: 15px;
-    margin-right: 20px;
-    color: white;
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 6px;
+
 }
 .mission-1{
     background-color: lightblue;
