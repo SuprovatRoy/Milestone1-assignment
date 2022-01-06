@@ -38,10 +38,10 @@ h1{
     text-align: center;
 }
 #color{
-    color: indianred;
+    color: goldenrod;
 }
 .mission{
-    width: 26%;
+    width: 90%;
 }
 .my-mission{
     margin: 2%;
@@ -50,13 +50,11 @@ h1{
     width: 50%;
 }
 .develop-limit{
-    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: left;
 }
 .global-community{
-    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: right;
@@ -64,8 +62,8 @@ h1{
 
 }
 .mission-1{
-    background-color: lightblue;
-    margin-left: 20px;
+    background-color: rgb(190, 74, 74);
+    margin-left: 25px;
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 6px;
